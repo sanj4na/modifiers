@@ -29,7 +29,7 @@ struct ContentView: View {
         }
     }
     //hey 
-    
+    // ilayda's laptop pls work :(
     struct ContentView_Previews: PreviewProvider {
         static var previews: some View {
             ContentView()
